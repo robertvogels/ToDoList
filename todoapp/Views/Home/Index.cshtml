@@ -1,0 +1,79 @@
+﻿@model todoapp.ViewModels.AllTodosVM
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">To do list</h1>
+	<p> @Model.Count item(s)</p>
+</div>
+
+<form method="post" asp-action="SetCategoryFilter" style="display: inline-block">
+                <label for="exampleFormControlSelect1">Filter items</label>
+    <div class="row mb-2">
+        <div class="col">
+            <div class="form-group">
+                    <select class="form-control" name="Selection">
+                        <option value="None" selected>- - -</option>
+                        <option value="None">No filter</option>
+                        <option value="Work">Work</option>
+                        <option value="Private">Private</option>
+                        <option value="Other">Other</option>
+                    </select>
+            </div>
+        </div>
+        <div class="col">
+			    <button type="submit" class="btn btn-success">Set Filter</button>
+        </div>
+    </div>
+</form>
+
+@foreach(var todo in Model.Todos)
+{
+	<div class="row mb-2">
+		<div class="col" style="width: auto">
+			<form method="post" asp-action="EditDescription" asp-route-id="@todo.TodoId" id="form-todo-@todo.TodoId">
+				<input type="text" name="Description" value="@todo.Description" class="form-control"/>
+			</form>
+		</div>
+        <div class="col-2" style="width: auto">
+			<form method="post" asp-action="EditDescription" asp-route-id="@todo.TodoId" id="form-todo-@todo.TodoId">
+				<input type="text" name="ToDoCategory" value="@todo.ToDoCategory" class="form-control" disabled />
+			</form>
+		</div>
+		<div>
+			<form method="post" asp-action="MarkAsCompleted" asp-route-id="@todo.TodoId" style="display: inline-block">
+				<button type="submit" class="btn btn-success">Complete</button>
+			</form>					
+		<!-- <button type="submit" form="form-todo-@todo.TodoId" class="btn btn-primary">Save</button> -->
+			<form method="post" asp-action="Delete" asp-route-id="@todo.TodoId" style="display: inline-block">
+				<button type="submit" class="btn btn-danger">Delete</button>
+			</form>
+		</div>
+	</div>
+}
+
+
+<div class="card">
+	<div class="card-body">
+		<h5 class="card-title">Add new to-do item</h5>
+		<form method="post" asp-action="Create">
+			<div class="row">
+				<div class="col" style="width: auto">
+					<input type="text" name="Description" value="" class="form-control"/>
+				</div>
+                <div class="col-3" style="width: auto">
+                    <Select class="form-control" name="ToDoCategory">
+                        <option value="Work">Work</option>
+                        <option value="Private">Private</option>
+                        <option value="Other">Other</option>
+                    </Select>
+                </div>
+				<div class="col-2">
+					<button type="submit" class="btn btn-primary">Add</button>
+				</div>
+			</div>
+		</form>
+	</div>
+</div>
