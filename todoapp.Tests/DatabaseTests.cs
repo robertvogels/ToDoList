@@ -6,6 +6,7 @@ using todoapp.ViewModels;
 
 namespace Tests
 {
+    [TestFixture]
     public class DatabaseTests
 	{
 		private TodoDatabase db;
