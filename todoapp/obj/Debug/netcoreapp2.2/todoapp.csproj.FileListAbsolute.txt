@@ -27,3 +27,32 @@
 /Users/robert/Documents/developer/soluso_todo/recruitment-todoapp-master/todoapp/obj/Debug/netcoreapp2.2/todoapp.dll
 /Users/robert/Documents/developer/soluso_todo/recruitment-todoapp-master/todoapp/obj/Debug/netcoreapp2.2/todoapp.pdb
 /Users/robert/Documents/developer/soluso_todo/recruitment-todoapp-master/todoapp/obj/Debug/netcoreapp2.2/todoapp.csproj.CopyComplete
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/bin/Debug/netcoreapp2.2/todoapp.deps.json
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/bin/Debug/netcoreapp2.2/todoapp.runtimeconfig.json
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/bin/Debug/netcoreapp2.2/todoapp.runtimeconfig.dev.json
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/bin/Debug/netcoreapp2.2/todoapp.dll
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/bin/Debug/netcoreapp2.2/todoapp.pdb
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/bin/Debug/netcoreapp2.2/todoapp.Views.dll
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/bin/Debug/netcoreapp2.2/todoapp.Views.pdb
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/obj/Debug/netcoreapp2.2/todoapp.csprojAssemblyReference.cache
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/obj/Debug/netcoreapp2.2/todoapp.RazorAssemblyInfo.cache
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/obj/Debug/netcoreapp2.2/todoapp.RazorAssemblyInfo.cs
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/obj/Debug/netcoreapp2.2/todoapp.AssemblyInfoInputs.cache
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/obj/Debug/netcoreapp2.2/todoapp.AssemblyInfo.cs
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/obj/Debug/netcoreapp2.2/todoapp.TagHelpers.input.cache
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/obj/Debug/netcoreapp2.2/todoapp.TagHelpers.output.cache
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/obj/Debug/netcoreapp2.2/todoapp.RazorCoreGenerate.cache
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/obj/Debug/netcoreapp2.2/todoapp.RazorTargetAssemblyInfo.cache
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/obj/Debug/netcoreapp2.2/todoapp.RazorTargetAssemblyInfo.cs
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/obj/Debug/netcoreapp2.2/todoapp.Views.pdb
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/obj/Debug/netcoreapp2.2/todoapp.dll
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/obj/Debug/netcoreapp2.2/todoapp.pdb
+/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/obj/Debug/netcoreapp2.2/todoapp.csproj.CopyComplete

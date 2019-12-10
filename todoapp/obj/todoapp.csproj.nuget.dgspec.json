@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/robert/Documents/developer/soluso_todo/recruitment-todoapp-master/todoapp/todoapp.csproj": {}
+    "/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/todoapp.csproj": {}
   },
   "projects": {
-    "/Users/robert/Documents/developer/soluso_todo/recruitment-todoapp-master/todoapp/todoapp.csproj": {
+    "/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/todoapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/robert/Documents/developer/soluso_todo/recruitment-todoapp-master/todoapp/todoapp.csproj",
+        "projectUniqueName": "/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/todoapp.csproj",
         "projectName": "todoapp",
-        "projectPath": "/Users/robert/Documents/developer/soluso_todo/recruitment-todoapp-master/todoapp/todoapp.csproj",
+        "projectPath": "/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/todoapp.csproj",
         "packagesPath": "/Users/robert/.nuget/packages/",
-        "outputPath": "/Users/robert/Documents/developer/soluso_todo/recruitment-todoapp-master/todoapp/obj/",
+        "outputPath": "/Users/robert/Desktop/recruitment-todoapp-master 2/todoapp/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
